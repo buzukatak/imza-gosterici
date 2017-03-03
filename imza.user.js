@@ -1,11 +1,11 @@
 // ==UserScript==
 // @author        buzukatak
 // @name          tbt imza gosterici
-// @version       0.54
+// @version       0.55
 // @description   forum iletilerinde (varsa) kullanıcı imzalarını gösterir, pezevenklerin elinden kurtarır.
 // @namespace     https://github.com/buzukatak/imza-gosterici
-// @updateURL     https://cdn.rawgit.com/buzukatak/imza-gosterici/master/imza.user.js
-// @icon          https://cdn.rawgit.com/buzukatak/imza-gosterici/master/icon.png
+// @updateURL     https://buzukatak.github.io/imza-gosterici/imza.user.js
+// @icon          https://buzukatak.github.io/imza-gosterici/icon.png
 // @require       https://cdn.rawgit.com/nfrasser/linkify-shim/master/linkify.min.js
 // @require       https://cdn.rawgit.com/nfrasser/linkify-shim/master/linkify-html.min.js
 // @require       https://cdn.rawgit.com/nfrasser/linkify-shim/master/linkify-plugin-mention.min.js
