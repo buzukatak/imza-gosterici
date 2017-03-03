@@ -1,4 +1,4 @@
-# imza gösterici 0.49
+# imza gösterici 0.50
 forum iletilerinde (varsa) kullanıcı imzalarını gösterir, pezevenklerin elinden kurtarır.
 
 ##Gereksinimler
